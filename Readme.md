@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/DataSourceWizardCustomization/Form1.cs) (VB: [Form1.vb](./VB/DataSourceWizardCustomization/Form1.vb))
+<!-- default file list end -->
 # WinForms Designer - How to customize the Data Source wizard for the OLAP data source
 
 
