@@ -8,11 +8,22 @@
 
 * [Form1.cs](./CS/DataSourceWizardCustomization/Form1.cs) (VB: [Form1.vb](./VB/DataSourceWizardCustomization/Form1.vb))
 <!-- default file list end -->
-# WinForms Designer - How to customize the Data Source wizard for the OLAP data source
+# Dashboard for WinForms - Customize the Data Source wizard for the OLAP data source
 
 
-This example shows how to remove the <strong>Connection type</strong> option from the Data Source wizard page that allows end-users to specify <a href="https://documentation.devexpress.com/#Dashboard/CustomDocument113908">OLAP connection parameters</a>. To do this, use the <a href="https://documentation.devexpress.com/#Dashboard/DevExpressDashboardWinDashboardDesigner_DataSourceWizardCustomizationServicetopic">DataSourceWizardCustomizationService</a> property.
+This example shows how to remove the **Connection type** option from the Data Source wizard page that allows end-users to specify [OLAP connection parameters](https://docs.devexpress.com/Dashboard/113908). To do this, use the [DataSourceWizardCustomizationService](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardDesigner.DataSourceWizardCustomizationService) property.
 
 <br/>
 
+## Documentation
+
+- [Data Source wizard](https://docs.devexpress.com/Dashboard/17652)
+- [How to Customize the Data Source Wizard](https://docs.devexpress.com/Dashboard/11521)
+- [How to Customize Views and Presenters Corresponding to Wizard Pages](https://docs.devexpress.com/Dashboard/18293)
+
+## More Examples
+
+- [Dashboard for WinForms - How to customize the Data Source Wizard and invoke it in the DashboardViewer](https://github.com/DevExpress-Examples/Dashboard-Customize-ExtractDataSource-Wizard)
+- [Dashboard for WinForms - Data Source Wizard - How to display a list of available tables after data base selection](https://github.com/DevExpress-Examples/data-source-wizard-how-to-display-a-list-of-available-tables-after-data-base-selection-t279129)
+- [Dashboard for WinForms - How to define IConnectionStorageService filtering unnecessary connections from app.config](https://github.com/DevExpress-Examples/how-to-define-iconnectionstorageservice-filtering-unnecessary-connections-from-appconfig-t281449)
 
