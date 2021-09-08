@@ -18,7 +18,7 @@ This example shows how to remove the **Connection type** option from the Data S
 ## Documentation
 
 - [Data Source wizard](https://docs.devexpress.com/Dashboard/17652)
-- [How to Customize the Data Source Wizard](https://docs.devexpress.com/Dashboard/11521)
+- [How to Customize the Data Source Wizard](https://docs.devexpress.com/Dashboard/115219)
 - [How to Customize Views and Presenters Corresponding to Wizard Pages](https://docs.devexpress.com/Dashboard/18293)
 
 ## More Examples
